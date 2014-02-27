@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/YHD_AOM.iml" filepath="$PROJECT_DIR$/.idea/YHD_AOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/backUI.iml" filepath="$PROJECT_DIR$/.idea/backUI.iml" />
     </modules>
   </component>
 </project>

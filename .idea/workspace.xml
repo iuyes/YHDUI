@@ -1,8 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90de378e-8132-4e44-b92e-e7c603c72489" name="Default" comment="" />
-    <ignored path="YHD_AOM.iws" />
+    <list default="true" id="4c2c19cf-5d13-4523-af9e-74a1e79ba584" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\.idea\YHD_AOM.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\changepwd.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\combox\area_all.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\combox\area_bj.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\combox\area_sh.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\combox\city_all.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\combox\city_bj.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\combox\city_sh.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\common\ajaxDone.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\common\ajaxDone.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\common\ajaxTimeout.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\common\dwz-team.xls" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\db_attachmentBrightBack.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\db_attachmentLookup.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\db_lookupSuggest.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\db_select.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\db_widget.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\dwzOrgLookup.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\dwzOrgLookup2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\treeBringBack.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\database\treeLookup.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\ajaxDone1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\ajaxDone2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\ajaxDone3.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\dialog1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\dialog2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\layout1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\layout2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\list1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\list2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\pagination\list3.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\sortDrag\1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\sortDrag\2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo\sortDrag\form.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo_page1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo_page2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo_page4.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo_page5.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo_page6.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\demo_upload.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\dwz.frag.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\index_menu.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\login.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\login_dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\main.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\newPage1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\newPage2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\newPage3.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\sidebar_1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\sidebar_2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\tabsPage.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\validate_remote.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_accordion.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_alert.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_button.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_checkbox.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_combox.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_datepicker.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_editor.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_list.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_panel.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_removeSelected.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_textInput.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_tree.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_uploadify.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\w_validation.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Apache2.2\htdocs\backUI\window_open.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="backUI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,32 +99,29 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="YHD_AOM" />
+    <favorites_list name="backUI" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.756835" vertical-offset="8431" max-vertical-offset="9126">
-              <caret line="10" column="37" selection-start="593" selection-end="596" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/themes/css/core.css" />
       </list>
     </option>
   </component>
@@ -54,7 +131,7 @@
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -80,33 +157,48 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="YHD_AOM" />
+              <option name="myItemId" value="backUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="YHD_AOM" />
+              <option name="myItemId" value="backUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="YHD_AOM" />
+              <option name="myItemId" value="backUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="149" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="949" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="149" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="949" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -147,7 +239,7 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="mySSHConnectionTimeout" value="30000" />
     <option name="mySSHReadTimeout" value="30000" />
     <option name="MERGE_DRY_RUN" value="false" />
@@ -159,14 +251,13 @@
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
     <option name="IGNORE_EXTERNALS" value="false" />
-    <configuration useDefault="false">C:\Users\liubing2\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="90de378e-8132-4e44-b92e-e7c603c72489" name="Default" comment="" />
-      <created>1393488283118</created>
-      <updated>1393488283118</updated>
+      <changelist id="4c2c19cf-5d13-4523-af9e-74a1e79ba584" name="Default" comment="" />
+      <created>1393491096301</created>
+      <updated>1393491096301</updated>
     </task>
     <servers />
   </component>
@@ -177,17 +268,17 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32898173" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -206,46 +297,76 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="去掉demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="去掉demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dwz.frag.xml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.23416" vertical-offset="5694" max-vertical-offset="6474">
-          <caret line="17" column="29" selection-start="607" selection-end="620" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="739">
+          <caret line="0" column="5" selection-start="5" selection-end="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/dwz.ajax.js">
+    <entry file="file://$PROJECT_DIR$/js/dwz.core.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7190082" vertical-offset="1248" max-vertical-offset="10218">
+        <state vertical-scroll-proportion="0.57300276" vertical-offset="936" max-vertical-offset="12766">
+          <caret line="52" column="6" selection-start="1493" selection-end="1494" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/css/core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.61157024" vertical-offset="15472" max-vertical-offset="16198">
+          <caret line="578" column="41" selection-start="38434" selection-end="38434" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/css/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0055096" vertical-offset="730" max-vertical-offset="1456">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/css/ieHack.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5041322" vertical-offset="366" max-vertical-offset="1950">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7300277" vertical-offset="3434" max-vertical-offset="5486">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/speedup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
           <caret line="0" column="0" selection-start="0" selection-end="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1393487109088" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2444">
-          <caret line="0" column="0" selection-start="0" selection-end="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.756835" vertical-offset="8431" max-vertical-offset="9126">
-          <caret line="10" column="37" selection-start="593" selection-end="596" />
-          <folding />
         </state>
       </provider>
     </entry>
